@@ -1,0 +1,9 @@
+<data>
+	<empresa>"Empresa Ejemplo SA de CV"</empresa>
+	<items>
+		<item indice="" nombre="Empresa Ejemplo SA de CV" parent="root" />
+		<item indice="AA" nombre="Planeacion de Auditoria" parent="Empresa Ejemplo SA de CV" />
+		<item indice="AA.1" nombre="Carta Salvaguarda.pdf" parent="Planeacion de Auditoria" />
+		<item indice="AA.2" nombre="Contrato de Servicio.pdf" parent="Planeacion de Auditoria" />
+	</items>
+</data>
